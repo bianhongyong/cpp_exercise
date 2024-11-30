@@ -25,6 +25,6 @@ int main(){
     // cout<<demo.isBST()<<endl;
     // demo.delete_node(11.2);
     // demo.bfs();
-    //cout<<demo.Get_predecessor(20.5)<<endl;
+    cout<<demo.Get_predecessor(20.5)<<endl;
     return 0;
 }
